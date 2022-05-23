@@ -1,6 +1,9 @@
 # Rapid Rare-Object Search via Decision Branches
 The repository contains the source code for the paper *"Rapid Rare-Object Search via Decision Branches"*.
 
+<img src="[https://github.com/your_image.png](https://github.com/decisionbranches/neurips_decisionbranches/blob/main/figures/Figure_1_part1.jpg)" alt="Traditional Approach" width="250"/>
+<img src="[https://github.com/your_image.png](https://github.com/decisionbranches/neurips_decisionbranches/blob/main/figures/Figure_1_part2.jpg)" alt="Our Approach" width="250"/>
+
 ## Getting started
 To run the code, **Python3.8** is required. To run the code, we provide you with three options:
 
