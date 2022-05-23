@@ -1,4 +1,4 @@
-# NeurIPS2022: Rapid Rare-Object Search via Decision Branches
+# Rapid Rare-Object Search via Decision Branches
 The repository contains the source code for the paper *"Rapid Rare-Object Search via Decision Branches"*.
 
 ## Getting started
