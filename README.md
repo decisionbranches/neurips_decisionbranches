@@ -2,8 +2,10 @@
 The repository contains the source code for the paper *"Rapid Rare-Object Search via Decision Branches"*. The figures show the compared approaches for finding rare-objects. The left figure shows the traditional approach via trained decision trees without the use of index structures. The right figures show our approach based on *decision branches* that makes use of multidimensional index structures to speed up the search.
 
 <p align="middle">
-  <img src="figures/Figure_1_part1.jpg" height="300" hspace="50"\>
-  <img src="figures/Figure_1_part2.jpg" height="300" \>
+  <kbd>
+      <img src="figures/Figure_1_part1.jpg" height="350" hspace="50"\>
+      <img src="figures/Figure_1_part2.jpg" height="350" \>
+  </kbd>
 </p>
 
 
