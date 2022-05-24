@@ -1,10 +1,10 @@
 # Rapid Rare-Object Search via Decision Branches
-The repository contains the source code for the paper *"Rapid Rare-Object Search via Decision Branches"*. The figures show the compared approaches for finding rare-objects. The left figure shows the traditional approach via trained decision trees without the use of index structures. The right figures show our approach based on *decision branches* that makes use of multidimensional index structures to speed up the search.
+The repository contains the source code for the paper *"Rapid Rare-Object Search via Decision Branches"*. We show that our *decision branch* models (see left figure) can heavily speed up rare-object searches in comparison to classic decision tree models (see right figure). Unlike traditional approaches the whole data does not need to be scanned for our search but instead uses multidimensional index structures to only load the relevant data.
 
 <p align="middle">
   <kbd>
-      <img src="figures/Figure_1_part1.jpg" height="300" hspace="50"\>
-      <img src="figures/Figure_1_part2.jpg" height="300" \>
+    <img src="figures/Figure_1_part2.jpg" height="300" hspace="50"\>  
+    <img src="figures/Figure_1_part1.jpg" height="300" \>
   </kbd>
 </p>
 
