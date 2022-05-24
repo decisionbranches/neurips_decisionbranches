@@ -3,8 +3,8 @@ The repository contains the source code for the paper *"Rapid Rare-Object Search
 
 <p align="middle">
   <kbd>
-      <img src="figures/Figure_1_part1.jpg" height="350" hspace="50"\>
-      <img src="figures/Figure_1_part2.jpg" height="350" \>
+      <img src="figures/Figure_1_part1.jpg" height="300" hspace="50"\>
+      <img src="figures/Figure_1_part2.jpg" height="300" \>
   </kbd>
 </p>
 
